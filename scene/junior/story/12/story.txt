@@ -1,0 +1,35 @@
+Shape world
+Kàn kan nàxiē sānjiǎoxíng.  
+Look at the triangles.  
+Tāmen shì shān.  
+They're mountains.  
+Bù, bù! Shì yī zhī húli.  
+No, no! It's a fox.  
+Yǒu jǐ zhī? Yī zhī húli.  
+How many? One fox.  
+Kàn kan nàge yuánquān.  
+Look at the circle.  
+Tā shì yuèliang.  
+It's the moon.  
+Bù, bù! Shì yī zhī xióng.  
+No, no! It's a bear.  
+Yǒu jǐ zhī? Liǎng zhī xióng.  
+How many? Two bears.  
+Kàn kan nàge zhèngfāngxíng.  
+Look at the square.  
+Tā shì yī shàn chuānghu.  
+It's a window.  
+Bù, bù! Shì yī kuài bǐnggān.  
+No, no! It's a cracker.  
+Yǒu jǐ kuài? Sān kuài xiāngtián de bǐnggān.  
+How many? Three yummy crackers.  
+Kàn kan nàxiē chángfāngxíng.  
+Look at the rectangles.  
+Tāmen shì jīmù.  
+They're blocks.  
+Bù, bù! Tāmen shì dàxiàng de tuǐ.  
+No, no! They're elephant legs.  
+Yǒu jǐ tiáo tuǐ? Sì tiáo tuǐ.  
+How many? Four legs.  
+Xíngzhuàng dàochù dōu shì.  
+Shapes are everywhere.
