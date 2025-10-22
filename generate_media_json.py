@@ -16,7 +16,7 @@ for level in levels:
     folders += [f"scene/{level}/story/{i}" for i in range(1, 11)]
 
 def build_raw_url(path):
-    return f"https://github.com/{username}/{repo}/raw/{branch}/{path}"
+    return f"https://gitee.com/{username}/{repo}/raw/{branch}/{path}"
 
 media_map = {}
 
