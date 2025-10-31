@@ -1,0 +1,8 @@
+happy = happy, glad, joyful, cheerful
+blue = blue, azure, sky-colored
+meow = meow, miaow, mew
+cat = cat, kitty, feline
+it's = it's, it is
+i'm = i'm, i am
+we're = we're, we are
+don't = don't, do not
