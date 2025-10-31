@@ -1,0 +1,6 @@
+SAY: The sun is bright today.
+SAY: I like to eat apples.
+ASK: What color is the sky? | blue
+ASK: What do you wear on your feet? | shoes
+SAY: Dogs bark loudly.
+ASK: What sound does a cat make? | meow
