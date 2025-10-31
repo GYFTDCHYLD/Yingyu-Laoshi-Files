@@ -1,2 +1,13 @@
-Junior What day is today?
-Senior What day will tomorrow be?
+ASK: What is your name? | My name is
+ASK: How are you? | I am
+ASK: What day will tomorrow be? | Tomorrow will be 
+ASK: What day will the day after tomorrow be? | The day after tomorrow will be
+ASK: How is the weather today? | It is
+ASK: What are you doing? | I am
+SAY: The sun is bright today.
+SAY: I like to eat apples.
+ASK: What color is the sky? | blue
+ASK: What day was yesterday ? | Yesterday was 
+ASK: What do you wear on your feet? | shoes
+SAY: Dogs bark loudly.
+ASK: What sound does a cat make? | meow
