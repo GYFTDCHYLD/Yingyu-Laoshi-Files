@@ -1,4 +1,4 @@
-ASK: What is your name? | My name is
+ASK: What is your name? | My name is+
 SAY: I like apples.
 SAY: I like to eat apples.
 SAY: I like mango.
