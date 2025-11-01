@@ -1,9 +1,9 @@
+SAY: the sun is bright today
 ASK: What is your name? | My name is+ | i am+ | i'm+
 ASK: How are you? | I am+ | i'm+
 ASK: What day is today? | today is+ | it's+ | it is+
 ASK: How is the weather today? | It is+
 ASK: What are you doing? | I am+ | i'm+
-SAY: The sun is bright today.
 SAY: I like to eat apples.
 ASK: What color is the sky? | blue | it is blue | it's blue | the sky is blue
 ASK: What do you wear on your feet? | shoes | shoe
