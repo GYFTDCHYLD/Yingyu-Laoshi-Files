@@ -1,1 +1,2 @@
-2025-11-01: halloween.PNG image
+11-01: halloween.PNG image
+default: Hello! how are you?
