@@ -1,4 +1,4 @@
-SAY: The sun is bright today.
+SAY: the sun is bright today
 ASK: What is your name? | My name is+ | i am+ | i'm+
 ASK: How are you? | I am+ | i'm+
 ASK: What day is today? | today is+ | it's+ | it is+
