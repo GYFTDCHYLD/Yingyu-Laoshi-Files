@@ -1,4 +1,4 @@
-11-01: halloween.PNG image
+10-31: halloween.PNG image
 11-30: thanksgiving.png image
 12-25: christmas.PNG image
 default: Hello! how are you?
