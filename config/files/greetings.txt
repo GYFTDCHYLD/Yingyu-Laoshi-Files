@@ -1,4 +1,15 @@
+01-01: new_year.png image
+02-14: valentines.png image
+03-17: st_patricks.png image
+04-01: april_fools.png image
+04-22: earth_day.png image
+05-05: cinco_de_mayo.png image
+06-01: summer.png image
+07-04: independence.png image
+09-05: back_to_school.png image
 10-31: halloween.PNG image
+11-11: veterans.png image
 11-30: thanksgiving.png image
 12-25: christmas.PNG image
+12-31: new_years_eve.png image
 default: Hello! how are you?
