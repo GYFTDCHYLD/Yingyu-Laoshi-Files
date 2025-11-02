@@ -6,7 +6,6 @@
 05-05: cinco_de_mayo.png image
 06-01: summer.png image
 07-04: independence.png image
-09-05: back_to_school.png image
 10-31: halloween.PNG image
 11-11: veterans.png image
 11-30: thanksgiving.png image
