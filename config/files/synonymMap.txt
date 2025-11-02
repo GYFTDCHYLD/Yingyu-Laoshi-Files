@@ -1,5 +1,5 @@
 happy = happy, glad, joyful, cheerful
-blue = blue, azure, sky-colored
+blue = blue, azure, sky-colored, sky colored, sky coloured
 meow = meow, miaow, mew
 cat = cat, kitty, feline
 it's = it's, it is
