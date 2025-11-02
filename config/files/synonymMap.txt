@@ -1,8 +1,30 @@
-happy = happy, glad, joyful, cheerful
-blue = blue, azure, sky-colored, sky-coloured
-meow = meow, miaow, mew
-cat = cat, kitty, feline
-it's = it's, it is
-i'm = i'm, i am
-we're = we're, we are
-don't = don't, do not
+happy, glad, joyful, cheerful, delighted, pleased
+blue, azure, sky-colored, sky coloured, sky blue
+meow, miaow, mew, purr
+cat, kitty, feline, puss
+it's, it is
+i'm, i am
+we're, we are
+don't, do not
+yes, yeah, yup, yep, affirmative
+no, nope, nah, negative
+okay, ok, alright, fine
+hello, hi, hey, greetings
+goodbye, bye, see you, farewell
+thanks, thank you, thx, cheers
+eat, devour, munch, consume
+drink, sip, gulp, slurp
+run, jog, sprint, dash
+walk, stroll, saunter, stride
+big, large, huge, massive, gigantic
+small, little, tiny, miniature, petite
+fast, quick, speedy, rapid
+slow, sluggish, lazy, unhurried
+smart, clever, bright, intelligent
+funny, humorous, silly, amusing
+beautiful, pretty, lovely, gorgeous
+ugly, unattractive, hideous, plain
+hot, warm, boiling, scorching
+cold, chilly, freezing, frosty
+happy birthday, hbd, have a great birthday
+good job, well done, nice work, great job
