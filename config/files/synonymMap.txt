@@ -32,6 +32,11 @@
 happy, glad, joyful, cheerful, delighted, pleased  
 blue, azure, sky colored, sky coloured, sky blue  
 meow, miaow, mew, purr  
+shoe, shoes
+boot, boots
+sock, socks
+slipper, slippers, sandals
+footwear, foot wear
 autumn, fall  
 cat, kitty, feline, puss  
 it's, it is  

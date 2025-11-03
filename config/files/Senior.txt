@@ -3,7 +3,7 @@ ASK: What date is today? | it's+ | it is+ | today is+ | today's date is+ #FULL_D
 ASK: What day is today? | today is+ | it's+ | it is+ #DAY_OF_WEEK
 ASK: What month is it? | the month is+ | it is+ | it's+ #MONTH
 ASK: What season is it? | it is+ | it's+ #SEASON
-ASK: What do you wear on your feet? | shoes | shoe
+ASK: What do you wear on your feet? | shoes | boots | slippers | socks | foot wear 
 SAY: The sun is very bright today
 ASK: What is your name? | My name is+ | i am+ | i'm+
 ASK: How are you? | I am+ | i'm+

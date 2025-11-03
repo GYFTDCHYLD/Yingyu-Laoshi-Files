@@ -13,6 +13,7 @@ ill, hill
 i, eye, hi, high
 c, see, sea
 2, to, too, two
+boot, booth
 am, ham
 n, hen
 write, right
