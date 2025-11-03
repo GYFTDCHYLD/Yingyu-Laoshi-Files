@@ -1,27 +1,14 @@
-Finding Friends
-Ào, wǒ cóng dàn lǐ chūlái le.  
-Oh, I'm out of the egg.  
-Xiàtiān dàole.  
-Summer comes.  
-Rénmen chuān duǎnkù hé T-xù.  
-People wear shorts and T-shirts.  
-Wǒ de péngyǒu zài nǎlǐ?  
-Where are my friends?  
-Qiūtiān dàole.  
-Fall comes.  
-Rénmen chuān jiákè.  
-People wear jackets.  
-Wǒ de péngyǒu zài nǎlǐ?  
-Where are my friends?  
-Dōngtiān dàole.  
-Winter comes.  
-Rénmen chuān dàyī.  
-People wear coats.  
-Wǒ de péngyǒu zài nǎlǐ?  
-Where are my friends?  
-Chūntiān dàole.  
-Spring comes.  
-Tā zhǎodào le tā de péngyǒumen.  
-He finds his friends.  
-Wǒmen tuō diào yīfu ba.  
-Let's take off the clothes.
+1: Finding Friends
+2: Oh, I'm out of the egg.  
+3: Summer comes.    
+3: People wear shorts and T-shirts.  
+3: Where are my friends?   
+4: Fall comes.   
+4: People wear jackets.  
+4: Where are my friends?  
+5: Winter comes.    
+5: People wear coats.  
+5: Where are my friends?   
+6: Spring comes.   
+6: He finds his friends.   
+6: Let's take off the clothes.
