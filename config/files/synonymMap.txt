@@ -18,45 +18,45 @@
 18th, eighteenth, eighteen, 18  
 19th, nineteenth, nineteen, 19  
 20th, twentieth, twenty, 20  
-21st, twenty-first, twenty-one, 21  
-22nd, twenty-second, twenty-two, 22  
-23rd, twenty-third, twenty-three, 23  
-24th, twenty-fourth, twenty-four, 24  
-25th, twenty-fifth, twenty-five, 25  
-26th, twenty-sixth, twenty-six, 26  
-27th, twenty-seventh, twenty-seven, 27  
-28th, twenty-eighth, twenty-eight, 28  
-29th, twenty-ninth, twenty-nine, 29  
+21st, twenty first, twenty one, 21  
+22nd, twenty second, twenty two, 22  
+23rd, twenty third, twenty three, 23  
+24th, twenty fourth, twenty four, 24  
+25th, twenty fifth, twenty five, 25  
+26th, twenty sixth, twenty six, 26  
+27th, twenty seventh, twenty seven, 27  
+28th, twenty eighth, twenty eight, 28  
+29th, twenty ninth, twenty nine, 29  
 30th, thirtieth, thirty, 30  
-31st, thirty-first, thirty-one, 31
-happy, glad, joyful, cheerful, delighted, pleased
-blue, azure, sky-colored, sky coloured, sky blue
-meow, miaow, mew, purr
-autumn, fall
-cat, kitty, feline, puss
-it's, it is
-i'm, i am
-we're, we are
-don't, do not
-yes, yeah, yup, yep, affirmative
-no, nope, nah, negative
-okay, ok, alright, fine
-hello, hi, hey, greetings
-goodbye, bye, see you, farewell
-thanks, thank you, thx, cheers
-eat, devour, munch, consume
-drink, sip, gulp, slurp
-run, jog, sprint, dash
-walk, stroll, saunter, stride
-big, large, huge, massive, gigantic
-small, little, tiny, miniature, petite
-fast, quick, speedy, rapid
-slow, sluggish, lazy, unhurried
-smart, clever, bright, intelligent
-funny, humorous, silly, amusing
-beautiful, pretty, lovely, gorgeous
-ugly, unattractive, hideous, plain
-hot, warm, boiling, scorching
-cold, chilly, freezing, frosty
-happy birthday, hbd, have a great birthday
+31st, thirty first, thirty one, 31
+happy, glad, joyful, cheerful, delighted, pleased  
+blue, azure, sky colored, sky coloured, sky blue  
+meow, miaow, mew, purr  
+autumn, fall  
+cat, kitty, feline, puss  
+it's, it is  
+i'm, i am  
+we're, we are  
+don't, do not  
+yes, yeah, yup, yep, affirmative  
+no, nope, nah, negative  
+okay, ok, alright, fine  
+hello, hi, hey, greetings  
+goodbye, bye, see you, farewell  
+thanks, thank you, thx, cheers  
+eat, devour, munch, consume  
+drink, sip, gulp, slurp  
+run, jog, sprint, dash  
+walk, stroll, saunter, stride  
+big, large, huge, massive, gigantic  
+small, little, tiny, miniature, petite  
+fast, quick, speedy, rapid  
+slow, sluggish, lazy, unhurried  
+smart, clever, bright, intelligent  
+funny, humorous, silly, amusing  
+beautiful, pretty, lovely, gorgeous  
+ugly, unattractive, hideous, plain  
+hot, warm, boiling, scorching  
+cold, chilly, freezing, frosty  
+happy birthday, hbd, have a great birthday  
 good job, well done, nice work, great job
