@@ -1,6 +1,8 @@
 b, be, bee
 t-shirt, tee shirt, t shirt
 short, shorts
+it's autumn, it's awesome
+it is autumn, it awesome 
 e, he
 at, hat
 some, sum
