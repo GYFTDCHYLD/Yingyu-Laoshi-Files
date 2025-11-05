@@ -1,5 +1,7 @@
 b, be, bee
 t, tee, tea
+quote, coat
+quotes, coats
 tee shirt, t shirt
 tee shirts, t shirts
 short, shorts
