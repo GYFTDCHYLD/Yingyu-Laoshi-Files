@@ -2,8 +2,8 @@ b, be, bee
 t, tee, tea
 quote, coat
 quotes, coats
-tee shirt, t shirt
-tee shirts, t shirts
+t shirt, tee shirt 
+t shirts, tee shirts
 short, shorts
 it's autumn, it's awesome
 it is autumn, it awesome 
